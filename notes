@@ -1,0 +1,12 @@
+Framework - 1
+    1. Pytest - Test framework used for unit testing.
+    2. Data Driven Framework - Seperating the test method and the test data
+                               using some external files like excel,csv,json.
+    3. Page Object Model - Design Pattern - Reusing the web element script
+       Keyword Driven - For efficiently maintaining the web driven keywords
+
+    Packages:
+        1. tests - Test class and test methods
+        2. base - Report, logs and browser config
+        3. pages - Page class and page methods
+        4. Utilities - reusable script for handling .csv, excel
