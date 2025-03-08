@@ -18,7 +18,7 @@ class TestAddEmployee(AutomationWrapper):
 
         # enter firstname as john
 
-        # enter middlename as j
+        # enter middle name as j
 
         # enter lastname as wick
 
